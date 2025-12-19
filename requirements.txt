@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+lxml
+html5lib
+pandas
+numpy
+tqdm
+jieba
+nltk
+scikit-learn
+transformers
+sentencepiece
+accelerate
+networkx
+matplotlib
+openai   # 仅 stance_with_llm.py 用到，没用可以删
